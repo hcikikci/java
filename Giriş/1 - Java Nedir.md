@@ -2,11 +2,11 @@
 Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde tasarlanmış, yüksek seviyeli, sınıf tabanlı bir nesne yönelimli programlama dilidir. Java Sanal Makinesi ([JVM - Java Virtual Machine](../Ekler/JVM%20-%20Java%20Virtual%20Machine.md)) sayesinde "Write Once, Run Anywhere" ("Bir kez yaz, her yerde çalıştır") (WORA) ilkesini mümkün kılar.
 
 # Java'nın Kısa Tarihi
-- 1991: James Gosling ve Mike Sheridan liderliğinde Sun Microsystems'te "Oak" kod adıyla başlatıldı.
+- 1991: James Gosling ve Mike Sheridan liderliğinde [Sun Microsystems](../Ekler/Sun%20Microsystems.md)'te "Oak" kod adıyla başlatıldı.
 - 1995: "Java" adıyla yeniden adlandırıldı ve web tarayıcıları için applet desteğiyle JDK 1.0 olarak piyasaya sürüldü.
 - 1996–2006: Java 1.1'den 1.4'e kadar evrimleşerek iç sınıflar (inner classes), JDBC ve Java Collections Framework gibi özellikler kazandı.
 - 2006: Sun, Java'yı GNU Genel Kamu Lisansı (GPL) altında serbest bıraktı.
-- 2009: Oracle, Sun Microsystems'i satın alarak Java geliştirmesini devraldı.
+- 2009: Oracle, [Sun Microsystems](../Ekler/Sun%20Microsystems.md)'i satın alarak Java geliştirmesini devraldı.
 - 2011–günümüz: Yarı yıl temelli sürüm modeline geçilerek her altı ayda bir yeni özellik sürümleri yayınlanmaya başlandı.
 
 # Java'nın Temel Özellikleri
