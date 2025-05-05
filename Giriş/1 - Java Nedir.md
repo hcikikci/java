@@ -1,5 +1,5 @@
 # Java Nedir?
-Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde tasarlanmış, yüksek seviyeli, sınıf tabanlı bir nesne yönelimli programlama dilidir. Java Sanal Makinesi (JVM) sayesinde "Write Once, Run Anywhere" ("Bir kez yaz, her yerde çalıştır") (WORA) ilkesini mümkün kılar.
+Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde tasarlanmış, yüksek seviyeli, sınıf tabanlı bir nesne yönelimli programlama dilidir. Java Sanal Makinesi ([JVM - Java Virtual Machine](../Ekler/JVM%20-%20Java%20Virtual%20Machine.md)) sayesinde "Write Once, Run Anywhere" ("Bir kez yaz, her yerde çalıştır") (WORA) ilkesini mümkün kılar.
 
 # Java'nın Kısa Tarihi
 - 1991: James Gosling ve Mike Sheridan liderliğinde Sun Microsystems'te "Oak" kod adıyla başlatıldı.
@@ -10,7 +10,7 @@ Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde 
 - 2011–günümüz: Yarı yıl temelli sürüm modeline geçilerek her altı ayda bir yeni özellik sürümleri yayınlanmaya başlandı.
 
 # Java'nın Temel Özellikleri
-- Platform Bağımsızlığı: JVM sayesinde bir kez yaz, her yerde çalıştır.
+- Platform Bağımsızlığı: [JVM](../Ekler/JVM%20-%20Java%20Virtual%20Machine.md) sayesinde bir kez yaz, her yerde çalıştır.
 - Nesne Yönelimli: Kapsülleme, kalıtım ve çok biçimlilik.
 - Otomatik Bellek Yönetimi: Çöp toplayıcı (Garbage Collector) bellek tahsisi ve boşaltmayı otomatikleştirir.
 - Güçlü Tip Kontrolü: Derleme zamanında tip denetimi, çalışma zamanı hatalarını azaltır.
