@@ -1,5 +1,5 @@
 # Java Nedir?
-Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde tasarlanmış, yüksek seviyeli, sınıf tabanlı bir nesne yönelimli programlama dilidir. Java Sanal Makinesi ([JVM - Java Virtual Machine](../Ekler/JVM%20-%20Java%20Virtual%20Machine.md)) sayesinde "Write Once, Run Anywhere" ("Bir kez yaz, her yerde çalıştır") (WORA) ilkesini mümkün kılar.
+Java, mümkün olduğunca az uygulama bağımlılığına sahip olacak şekilde tasarlanmış, [yüksek seviyeli (high-level)](../Ekler/Yüksek%20Seviyeli%20Diller.md) bir programlama dilidir. Java Sanal Makinesi ([JVM - Java Virtual Machine](../Ekler/JVM%20-%20Java%20Virtual%20Machine.md)) sayesinde "Write Once, Run Anywhere" ("Bir kez yaz, her yerde çalıştır") (WORA) ilkesini mümkün kılar.
 
 # Java'nın Kısa Tarihi
 - 1991: James Gosling ve Mike Sheridan liderliğinde [Sun Microsystems](../Ekler/Sun%20Microsystems.md)'te "Oak" kod adıyla başlatıldı.
